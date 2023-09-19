@@ -14,3 +14,6 @@ https://jquery.com/ and https://getbootstrap.com/ were both used as a resource
 
 # License
 MIT License. License can also be found in the Repo.  
+
+# Screenshot
+webAPI\WebAPI.quiz.png
